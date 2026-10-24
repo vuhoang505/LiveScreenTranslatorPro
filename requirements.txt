@@ -1,0 +1,15 @@
+# Phase 1 runtime. Python 3.11-3.12 is recommended on Windows.
+PySide6>=6.8,<7
+pydantic>=2.10,<3
+pydantic-settings>=2.7,<3
+mss>=10,<11
+numpy>=2.0,<3
+opencv-contrib-python==4.10.0.84
+httpx>=0.28,<1
+keyring>=25,<26
+psutil>=7,<8
+paddlepaddle>=3.2,<4
+paddleocr>=3.3,<4
+ctranslate2>=4.8,<5
+sentencepiece>=0.2,<0.3
+
